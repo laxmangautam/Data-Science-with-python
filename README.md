@@ -1,1 +1,1 @@
-# Data-Science-with-python
+Repository for samples demonstrating the fundamentals of machine learning
